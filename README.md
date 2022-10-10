@@ -191,7 +191,7 @@ Don't forget to give the project a star! Thanks again!
 
 Matthew Zane - [@matthewdzane](https://www.linkedin.com/in/matthewdzane/) - MatthewDZane@gmail.com
 
-Project Link: [https://github.com/MatthewDZane/CesiumNetBoxVisualization]https://github.com/MatthewDZane/CesiumNetBoxVisualization)
+Project Link: [https://github.com/MatthewDZane/CesiumNetBoxVisualization](https://github.com/MatthewDZane/CesiumNetBoxVisualization)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
